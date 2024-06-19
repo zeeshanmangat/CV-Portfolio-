@@ -1,0 +1,6 @@
+{
+"version": 3,
+"sources": ["../scss/style.scss","../scss/_variables.scss","../scss/_predefine.scss","../scss/_header.scss","../scss/breadcrumb.scss","../scss/_blog.scss","../scss/_contact.scss","../scss/_elements.scss","../scss/_button.scss","../scss/_feature.scss","../scss/_gallery.scss","../scss/_testimonials.scss","../scss/_footer.scss"],
+"names": [],
+"file": "style.css"
+}
